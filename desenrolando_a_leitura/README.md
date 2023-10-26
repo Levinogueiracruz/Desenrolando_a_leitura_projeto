@@ -1,3 +1,7 @@
 # desenrolando_a_leitura
 
-A new Flutter project.
+# Nomes:
+
+Levi Nogueira Cruz RA: 2840482213020
+
+
